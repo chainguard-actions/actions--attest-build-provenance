@@ -1,5 +1,7 @@
 # actions/attest-build-provenance
 
+Action for generating build provenance attestations for workflow artifacts
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/attest-build-provenance](https://github.com/actions/attest-build-provenance).
 
 ## Versions
