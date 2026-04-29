@@ -1,6 +1,12 @@
 # actions/attest-build-provenance
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions/attest-build-provenance](https://github.com/actions/attest-build-provenance).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/attest-build-provenance/tree/v4.1.0) | — |
 
 ## Privacy
 
